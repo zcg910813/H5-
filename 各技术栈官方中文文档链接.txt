@@ -18,4 +18,4 @@ reach/router（react的路由插件）：   https://reach.tech/router/
 
 pmndrs/jotai（基于react的状态管理插件）：    https://github.com/pmndrs/jotai/pull/246
 
-live-server（前端简易的服务器live-server的使用）：https://zhuanlan.zhihu.com/p/135859676
+Recoil（Recoil 是一个 React 状态管理库）：https://recoil.js.cn/docs/introduction/getting-started
