@@ -4,12 +4,16 @@ elementUI：https://element.eleme.cn/#/zh-CN/component/installation
 
 react：https://www.reactnative.cn/docs/getting-started
 
-antd：https://ant.design/components/overview-cn/
+antd（基于react框架的ui库）：https://ant.design/components/overview-cn/
 
-egg：https://eggjs.org/zh-cn/tutorials/index.html
+egg（淘宝nodejs框架）：https://eggjs.org/zh-cn/tutorials/index.html
 
-Sequelize：https://www.sequelize.com.cn/
+Sequelize（基于nodejs创建数据库的插件）：https://www.sequelize.com.cn/
 
-puppeteer：https://zhaoqize.github.io/puppeteer-api-zh_CN/#/Environment_Variables
+puppeteer（node访问虚拟谷歌浏览器，一般用于获取界面上的数据）：https://zhaoqize.github.io/puppeteer-api-zh_CN/#/Environment_Variables
 
-Electron：http://www.electronjs.org/docs
+Electron（nodejs搭建桌面应用的框架）：http://www.electronjs.org/docs
+
+reach/router（react的路由插件）：   https://reach.tech/router/
+
+pmndrs/jotai（基于react的状态管理插件）：    https://github.com/pmndrs/jotai/pull/246
